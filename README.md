@@ -21,9 +21,13 @@ O **Lista de Supermercado** é um aplicativo para dispositivos Android desenvolv
 - **Criar e Gerenciar Listas:** Crie múltiplas listas de compras para diferentes ocasiões ou lojas.
 - **Adicionar e Remover Itens:** Adicione itens às suas listas com facilidade e remova-os quando não forem mais necessários.
 - **Categorias de Produtos:** Organize seus itens por categorias para facilitar a localização no supermercado.
+- **Classificação de Produtos:** Classifique produtos em categorias específicas como carne, limpeza, grãos, etc.
 - **Marcar Itens como Comprados:** Marque os itens que já foram comprados para acompanhar seu progresso.
 - **Sincronização em Nuvem:** Sincronize suas listas entre diferentes dispositivos Android (opcional).
 - **Compartilhamento de Listas:** Compartilhe suas listas com familiares e amigos via email, mensagens ou aplicativos de redes sociais.
+- **Histórico de Preços:** Para cada item da lista, será apresentado o valor da última compra do produto.
+- **Scanner de QR Code:** Utilize o scanner de QR Code para importar listas de compras anteriores a partir de notas fiscais.
+- **Facilidade para Mesclar Listas:** Mescle listas de compras diferentes para consolidar todos os itens em uma única lista.
 
 ## Instalação
 
